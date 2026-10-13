@@ -1,0 +1,14 @@
+SUBJECT: Weekly Product Pulse + Customer Clarification — Platform Maintenance Fee (₹250 deduction)
+
+Body:
+Team,
+
+Here is this week's product pulse:
+Summary: Top themes this week are dominated by severe dissatisfaction with unexpected ₹250 Platform Maintenance Fees, crashes and slow load times on the Portfolio tab, and delayed customer support replies. Exact quotes highlight user frustration: 'Why was I charged a 250 Rs 'Platform Maintenance Fee'?', 'Hidden charges! I saw a maintenance fee deducted from my wallet without any notification.', and 'App keeps crashing when I try to open the portfolio tab.' Key Observation: The primary breakdown is transparency and pre-debit communication. Users feel blindsided by recurring platform maintenance charges deducted directly from wallets without advance notice or upfront onboarding disclosures, driving churn threats. Action Ideas: 1. Deploy pre-debit in-app and SMS notifications 7 days before recurring charges. 2. Implement an in-app billing breakdown and tooltip in Account Settings explaining platform maintenance fees. 3. Resolve portfolio tab stability and 5G loading bottlenecks to stabilize core navigation.
+
+---
+SUPPORT TEAM ACTION:
+Please use this approved snippet:
+
+• The Platform Maintenance Fee is an annual administrative charge of ₹250 levied to support account security, regulatory compliance, and cloud infrastructure. • The fee is debited directly from the user's account wallet on an annual basis following account activation. • The levy applies to all registered accounts regardless of trading activity or transaction frequency. • Invoices and transaction receipts detailing the charge are accessible under Account Settings > Billing & Statements. • Standard notifications are issued per regulatory guidelines to the registered email address. • Last checked: October 24, 2023.
+Sources: https://example-broker.com/pricing-and-charges, https://example-broker.com/help/account-maintenance-fees
